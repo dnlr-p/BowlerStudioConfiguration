@@ -8,6 +8,10 @@
       "https://github.com/dnlr-p/roundedcube_dnlr-p.git",
       "1674337333419"
     ],
+    "https://github.com/dnlr-p/sphere_dnlr-p.git": [
+      "https://github.com/dnlr-p/sphere_dnlr-p.git",
+      "1674344264075"
+    ],
     "https://github.com/dnlr-p/helloWorld_dnlr-p.git": [
       "https://github.com/dnlr-p/helloWorld_dnlr-p.git",
       "1674335376698"
@@ -26,6 +30,10 @@
     "https://github.com/dnlr-p/beltparts.git:beltparts.groovy": [
       "https://github.com/dnlr-p/beltparts.git",
       "beltparts.groovy"
+    ],
+    "https://github.com/dnlr-p/sphere_dnlr-p.git:sphere.groovy": [
+      "https://github.com/dnlr-p/sphere_dnlr-p.git",
+      "sphere.groovy"
     ]
   },
   "BowlerStudioConfigs": {
