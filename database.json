@@ -1,5 +1,17 @@
 {
+  "workspace": {
+    "https://github.com/dnlr-p/beltparts.git": [
+      "dnlr-p/beltparts",
+      "1674335327301"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://github.com/dnlr-p/beltparts.git:beltparts.groovy": [
+      "https://github.com/dnlr-p/beltparts.git",
+      "beltparts.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
