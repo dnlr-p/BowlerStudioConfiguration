@@ -3,6 +3,10 @@
     "https://github.com/dnlr-p/beltparts.git": [
       "dnlr-p/beltparts",
       "1674335327301"
+    ],
+    "https://github.com/dnlr-p/helloWorld_dnlr-p.git": [
+      "https://github.com/dnlr-p/helloWorld_dnlr-p.git",
+      "1674335376698"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://github.com/dnlr-p/beltparts.git:beltparts.groovy": [
       "https://github.com/dnlr-p/beltparts.git",
       "beltparts.groovy"
+    ],
+    "https://github.com/dnlr-p/helloWorld_dnlr-p.git:helloWorld.groovy": [
+      "https://github.com/dnlr-p/helloWorld_dnlr-p.git",
+      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
