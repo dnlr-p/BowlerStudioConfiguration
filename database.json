@@ -30,10 +30,6 @@
     "https://github.com/dnlr-p/beltparts.git:beltparts.groovy": [
       "https://github.com/dnlr-p/beltparts.git",
       "beltparts.groovy"
-    ],
-    "https://github.com/dnlr-p/sphere_dnlr-p.git:sphere.groovy": [
-      "https://github.com/dnlr-p/sphere_dnlr-p.git",
-      "sphere.groovy"
     ]
   },
   "BowlerStudioConfigs": {
