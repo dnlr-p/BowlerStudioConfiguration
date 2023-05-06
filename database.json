@@ -26,6 +26,9 @@
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/dnlr-p/beltparts.git:beltparts.groovy": [
       "https://github.com/dnlr-p/beltparts.git",
