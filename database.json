@@ -42,6 +42,10 @@
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "JavaCVBowler.groovy"
     ],
+    "https://github.com/dnlr-p/treeLoop.git:treeLoop.groovy": [
+      "https://github.com/dnlr-p/treeLoop.git",
+      "treeLoop.groovy"
+    ],
     "https://github.com/dnlr-p/BowlerStudioConfiguration.git:database.json": [
       "https://github.com/dnlr-p/BowlerStudioConfiguration.git",
       "database.json"
