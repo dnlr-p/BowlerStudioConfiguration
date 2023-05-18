@@ -27,6 +27,10 @@
     "https://github.com/dnlr-p/ChamferedParts_dnlr-p.git": [
       "https://github.com/dnlr-p/ChamferedParts_dnlr-p.git",
       "1674337549707"
+    ],
+    "https://github.com/dnlr-p/BowlerStudioConfiguration.git": [
+      "dnlr-p/BowlerStudioConfiguration",
+      "1684368645056"
     ]
   },
   "studio-open-web": {},
@@ -37,6 +41,10 @@
     "https://github.com/madhephaestus/JavaCVBowler.git:JavaCVBowler.groovy": [
       "https://github.com/madhephaestus/JavaCVBowler.git",
       "JavaCVBowler.groovy"
+    ],
+    "https://github.com/dnlr-p/BowlerStudioConfiguration.git:database.json": [
+      "https://github.com/dnlr-p/BowlerStudioConfiguration.git",
+      "database.json"
     ]
   },
   "BowlerStudioConfigs": {
