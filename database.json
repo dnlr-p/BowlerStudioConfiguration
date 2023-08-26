@@ -4,6 +4,10 @@
       "https://github.com/dnlr-p/javaCad_dnlr-p.git",
       "1692488553461"
     ],
+    "https://github.com/dnlr-p/difference_dnlr-p.git": [
+      "https://github.com/dnlr-p/difference_dnlr-p.git",
+      "1693076670916"
+    ],
     "https://github.com/dnlr-p/beltparts.git": [
       "dnlr-p/beltparts",
       "1674335327301"
@@ -53,6 +57,10 @@
     "https://github.com/dnlr-p/treeLoop.git:treeLoop.groovy": [
       "https://github.com/dnlr-p/treeLoop.git",
       "treeLoop.groovy"
+    ],
+    "https://github.com/dnlr-p/difference_dnlr-p.git:difference.groovy": [
+      "https://github.com/dnlr-p/difference_dnlr-p.git",
+      "difference.groovy"
     ],
     "https://github.com/dnlr-p/clojureDemo_dnlr-p.git:clojureDemo.clj": [
       "https://github.com/dnlr-p/clojureDemo_dnlr-p.git",
