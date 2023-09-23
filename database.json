@@ -12,6 +12,10 @@
       "https://github.com/dnlr-p/roundedcube_dnlr-p.git",
       "1674337333419"
     ],
+    "https://github.com/dnlr-p/beltparts.git": [
+      "dnlr-p/beltparts",
+      "1674335327301"
+    ],
     "https://github.com/dnlr-p/sphere_dnlr-p.git": [
       "https://github.com/dnlr-p/sphere_dnlr-p.git",
       "1674344264075"
@@ -28,25 +32,21 @@
       "madhephaestus/JavaCVBowler",
       "1684366304133"
     ],
-    "https://github.com/dnlr-p/ChamferedParts_dnlr-p.git": [
-      "https://github.com/dnlr-p/ChamferedParts_dnlr-p.git",
-      "1674337549707"
-    ],
-    "https://github.com/dnlr-p/BowlerStudioConfiguration.git": [
-      "dnlr-p/BowlerStudioConfiguration",
-      "1684368645056"
-    ],
-    "https://github.com/dnlr-p/beltparts.git": [
-      "dnlr-p/beltparts",
-      "1674335327301"
-    ],
     "https://github.com/dnlr-p/clojureDemo_dnlr-p.git": [
       "https://github.com/dnlr-p/clojureDemo_dnlr-p.git",
       "1692487948308"
     ],
+    "https://github.com/dnlr-p/ChamferedParts_dnlr-p.git": [
+      "https://github.com/dnlr-p/ChamferedParts_dnlr-p.git",
+      "1674337549707"
+    ],
     "https://github.com/dnlr-p/cube_dnlr-p.git": [
       "https://github.com/dnlr-p/cube_dnlr-p.git",
       "1674336869863"
+    ],
+    "https://github.com/dnlr-p/BowlerStudioConfiguration.git": [
+      "dnlr-p/BowlerStudioConfiguration",
+      "1684368645056"
     ]
   },
   "studio-open-web": {},
