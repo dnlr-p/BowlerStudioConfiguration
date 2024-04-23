@@ -8,10 +8,6 @@
       "https://github.com/dnlr-p/difference_dnlr-p.git",
       "1693076670916"
     ],
-    "": [
-      "Project ",
-      "1713388704133"
-    ],
     "https://github.com/dnlr-p/roundedcube_dnlr-p.git": [
       "https://github.com/dnlr-p/roundedcube_dnlr-p.git",
       "1674337333419"
@@ -80,7 +76,7 @@
     "firstVersion": "1.50.1",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 17,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
